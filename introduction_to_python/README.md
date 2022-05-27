@@ -10,4 +10,4 @@ In this project, I made use of Python to explore data related to bike share syst
 
 ## Notice
 
-`If you are completing the same Udacity course, please only use this code for refenece and/or guidence.`
+`If you are completing a similar Udacity course, please only use this code for reference [and/or] guidence.`
