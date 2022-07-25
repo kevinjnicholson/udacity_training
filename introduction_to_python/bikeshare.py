@@ -9,6 +9,7 @@ from time import sleep
 import time
 import pandas as pd
 import numpy as np
+pd.set_option('display.expand_frame_repr', False)
 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
