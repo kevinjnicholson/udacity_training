@@ -1,6 +1,14 @@
-# Overview
+# Title
+
+Udacity Bikeshare
+
+## Description
 
 In this project, I made use of Python to explore data related to bike share systems for three major cities in the United States, Chicago, New York City, and Washington. I wrote code to import the data and answer questions about it by computing descriptive statistics. I also wrote a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
+
+## Creation Date
+
+22/07/2022
 
 ## Required Software
 
@@ -8,6 +16,13 @@ In this project, I made use of Python to explore data related to bike share syst
 * `Visual Studio Code`
 * `Terminal Or Iterm On Mac`
 
-## Notice
+## Files Used
 
-`If you are completing a similar Udacity course, please only use this code for reference [and/or] guidence.`
+* `chicago.csv`
+* `new_york_city.csv`
+* `washington.csv`
+
+## Credits
+
+* `Python For Dummies` 
+* `Python Crash Course 2nd edition`
